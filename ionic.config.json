@@ -1,0 +1,7 @@
+{
+  "name": "calendarApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
